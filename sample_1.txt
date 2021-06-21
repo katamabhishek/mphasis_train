@@ -4,3 +4,6 @@ Hello
 This is a sample file
 
 Hello new commit
+
+I am user 2
+Adding some changes
